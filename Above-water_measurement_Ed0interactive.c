@@ -1,5 +1,5 @@
 /**************************************************************************//**
- * measurement.c is mostly based on demo-averaging.c
+ * The program is based on demo-averaging.c
  * 
  * @file    demo-averaging.c
  * @date    29-Dec-2014
