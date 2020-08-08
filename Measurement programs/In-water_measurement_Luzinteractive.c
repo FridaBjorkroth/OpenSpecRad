@@ -1,6 +1,7 @@
 /**************************************************************************//**
- * measurement.c is mostly based on demo-averaging.c
- * 
+ * Program based on demo-averaging.c
+ * Frida Bjorkroth, 08-Aug-2020
+ *
  * @file    demo-averaging.c
  * @date    29-Dec-2014
  * @author  Ocean Optics, Inc.
