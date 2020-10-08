@@ -1,4 +1,4 @@
-# OpenSpecRad system
+# The OpenSpecRad system
 This is the repository for files created during the development of an Open-source SpectroRadiometer (OpenSpecRad) system. The OpenSpecRad system is used for in situ measurement of the water-leaving reflectance, used in water quality monitoring of marine and lake water. All software and drawings are available and open-source, which means that anyone can download and use and/or make changes to the construction.
 
 The water-leaving radiance is the spectrum of sunlight backscattered out of the ocean after interaction with the water and its constituents. Each component, as well as the water itself, has different inherent optical properties (IOPs) and absorbs and scatters different parts of the spectrum. Therefore the water-leaving radiance holds quantitative and qualitative information about the main optically active components of water, i.e. chlorophyll-a (Chl-a), coloured dissolved organic
